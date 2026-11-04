@@ -1,0 +1,13 @@
+{
+    "FS": 44100,
+    "BIT_DURATION": 0.01,
+    "FREQ_0": 4400,
+    "FREQ_1": 8800,
+    "ENERGY_THRESHOLD": 0.05,
+    "SYNC_THRESHOLD": 0.8,
+    "PREAMBLE_LEN": 16,
+    "APPEARANCE_MODE": "Light",
+    "SAVE_FOLDER": "C:\\Users\\sema_\\Downloads",
+    "INPUT_DEVICE": null,
+    "OUTPUT_DEVICE": null
+}
